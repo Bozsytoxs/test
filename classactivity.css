@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: url"";
+}
+nav{
+    margin: 30px 150px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.brandname{
+    color: #fff;
+}
+.menu ul{
+    display: flex;
+}
+.menu ul li{
+    color: #fff;
+    background-color: darkred;
+}

@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+    color: #fff;
+}
+nav{
+    margin: 30px 150px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.brandname{
+    color: #fff;
+}
+.menu ul{
+    display: flex;
+}
+.menu ul li{
+    color: #fff;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 20px;
+    cursor: pointer;
+
+}
+.hero .text h1{
+    color: #fff;
+    font-size: large;
+}
+.hero .text button{
+    background-color: brown;
+        border: none;
+        height: 36px;
+        width: 105px;
+        border-radius: 50px;
+        cursor: pointer;
+}
+.hero img{
+    height: 280px;
+    width: 280px;
+}
+.hero{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    align-items: center
+}

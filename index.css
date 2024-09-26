@@ -1,0 +1,44 @@
+h1{
+    color: red;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+p{
+    color: blue;
+    font-size: 20px; 
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    opacity: 0.5;
+    border-radius: 40px;
+    float: left;
+    border: 2px solid red;
+    margin: 20px;
+    padding: 10px;
+}
+h1{
+   margin-top: 11; 
+   color: #eee;
+   font-size: 22px;
+   font-weight: 600;
+}
+.secondheader{
+    margin-left: 11px;
+    font-size: 18px;
+    background-color: blue;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#thirthheader{
+    background-image: url(image/FB_IMG_15909493073342324.jpg);
+    color: blue;
+}k
+
